@@ -39,20 +39,10 @@ Findings:
 - **Lifestyle & Entertainment** generate visits but low retention  
 - Audience behavior shows **quick readers vs deep readers**
 
-Dashboard PDF:
-- `dashboard/MundoNow_Looker_Dashboard_Jul-Oct_2025.pdf`
-
 ---
 
 ## 🖥 Power BI Dashboard
 This repo also includes a Power BI version of the dashboard for interactive BI exploration.
-
-### Preview
-![Power BI Overview](dashboard/screenshots/powerbi_overview.png)
-![Power BI Insights](dashboard/screenshots/powerbi_insights.png)
-
-Power BI file:
-- `dashboard/MundoNow_PowerBI_Dashboard.pbix`
 
 ---
 
